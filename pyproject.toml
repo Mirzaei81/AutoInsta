@@ -1,0 +1,11 @@
+[project]
+name = "uiautointagram"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+[pip]
+index-url = "https://mirror-pypi.runflare.com/simple"
+[tool.uv.pip]
+index-url = "https://mirror-pypi.runflare.com/simple"

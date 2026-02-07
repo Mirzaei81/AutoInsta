@@ -1,0 +1,14 @@
+{
+    "write_sleep_min":0.01, 
+    "write_sleep_max":0.01, 
+    "btn_sleep_min": 0.1,
+    "btn_sleep_max": 0.3,
+    "page_sleep_min": 0.05,
+    "page_sleep_max": 0.3,
+    "home_chance":0.4,
+    "home_swap_min":1,
+    "home_swap_max":5,
+    "home_view_sec_min":3,
+    "home_view_sec_max":10,
+    "like_chanse":0.3
+}
