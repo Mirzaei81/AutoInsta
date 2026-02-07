@@ -3,7 +3,7 @@
 This project automates reading data from the **Instagram Android app UI** using **uiautomator2**.  
 It interacts directly with on-screen elements (text, buttons, lists) rather than Instagram’s API.
 ---
-
+[▶️ Watch demo video](./screen.mp4)
 ## Features
 
 - Connects to a real Android device or emulator
